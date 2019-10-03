@@ -1,0 +1,8 @@
+.brand{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.foot{
+    padding-top: 30px;
+}
